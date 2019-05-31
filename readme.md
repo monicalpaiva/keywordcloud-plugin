@@ -1,4 +1,4 @@
-# Keyword Cloud Block Plugin
+# Keyword Cloud Block Plugin - modified
 A sidebar block plugin for [Open Journal Systems](https://github.com/pkp/ojs) and [Open Monograph Press](https://github.com/pkp/omp) which displays a tag cloud of keywords.
 
 ![](snapshot.gif)
